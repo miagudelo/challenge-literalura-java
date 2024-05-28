@@ -26,6 +26,42 @@ En la aplicacion podemos consultar libros consumiendo la API Gutendex  que es un
 
 ![challenge-literalura](https://i.postimg.cc/m2fYvf8M/Ejecucion-programa.jpg)
 
+
+## Opciones del Menú
+[![challenge-literalura](https://i.postimg.cc/brpXD6vy/menu.jpg)
+
+
+### *Opción 1:* Buscar libros por título, es posible realizar la búsqueda por el nombre completo o parte del nombre del libro, si ya está en la base de datos, no es posible registrarlo nuevamente.
+![challenge-literalura](https://i.postimg.cc/25y4Qv6n/opcion1.jpg)
+
+### *Opción 2:* Listar libros registrados. Muestra la información de los libros registrados en la base de datos con los datos del autor, idioma y número de descargas.
+![challenge-literalura](https://i.postimg.cc/kGv63XGn/opcion2.jpg)
+
+### *Opción 3:* Listar los autores registrados, con los libros incluídos. teniendo en cuenta que si tiene más de un libro, sólo se mostrará una vez el autor con los distintos libros de su autoría
+![challenge-literalura](https://i.postimg.cc/NGDjcnbf/opcion3.jpg)
+
+### *Opción 4:* Listar autores vivos en un determinado año
+![challenge-literalura](https://i.postimg.cc/sD8yfCWy/opcion-4.jpg)
+
+### *Opción 5:* Listar libros por idioma, teniendo en cuenta que soporta sólo los idiomas: español, inglés, francés, portugués e italiano
+![challenge-literalura](https://i.postimg.cc/YCnXBtLf/opcion5.jpg)
+
+### *Opción 6:* Ver estadísticas de descargas: cantidad media de descargas, cantidad máxima y mínima de descargas y cantidad de registros evaluados para esas estadísticas
+![challenge-literalura](https://i.postimg.cc/vBQD7wXk/opcion6.jpg)
+
+### *Opción 7:* Ver Top 10 de libros descargados
+![challenge-literalura](https://i.postimg.cc/bvvwd9Jf/opcion7.jpg)
+
+### *Opción 8:* Buscar datos de un autor por nombre
+![challenge-literalura](https://i.postimg.cc/fL9Z02Qp/opcion8.jpg)
+
+### *Opción 9:* Buscar autores nacidos a partir del año indicado
+![challenge-literalura](https://i.postimg.cc/VLjqFmFL/opcion9.jpg)
+
+### *Opción 10:* Para SALIR del Programa.
+
+
+
 ### Aplicacion Construida en JAVA, usando Spring, JPA, JPQL  🛠️
 
 
